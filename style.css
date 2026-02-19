@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+ p{
+    color: white;
+    text-align: center;
+    
+}
+p{
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    width: 200px;
+    height: 450px;
+    padding: 10px;
+   background-color: rgba(31, 30, 30, 0.673);
+border-radius: 20px;
+}
+
+
+.amarelo{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 20px;
+    border-radius: 50%;
+
+}
+
+.vermelho{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.verde{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 20px;
+    border-radius: 50%;
+}
+.atencao{
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.siga{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pare{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textos{
+    color: black;
+}
+.fundo-semaforo{
+    background-color: black;
+}
+.titulo-black{
+    color: black;
+}
+small{
+    text-align: center;
+    color: white;
+   
+}
